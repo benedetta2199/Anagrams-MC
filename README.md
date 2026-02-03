@@ -47,9 +47,9 @@ The project separates **logic** and **interface**, making the code modular and e
 
 ---
 ## 👥 Contributors 
-Arianna Arruzzoli
-Benedetta Bottari 
-Claudia Brunetti 
+Arianna Arruzzoli  
+Benedetta Bottari  
+Claudia Brunetti  
 Milena Mazza 
 
 ## 📜 License: 
