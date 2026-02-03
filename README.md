@@ -54,3 +54,8 @@ Milena Mazza
 
 ## 📜 License: 
 This project is licensed under the MIT License.
+
+
+## 🎓 Academic Context
+Academic Year **2023/2024** - University of Bologna
+
